@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning - C#<br>💬 Ask me about (LUA, HTML, CSS, JS)
+🌱 I’m currently learning - React<br>💬 Ask me about (LUA, HTML, CSS, JS)
 
 
 ## 🌐 Socials:
